@@ -12,7 +12,15 @@
 
 ###
 
-<p align="left">✨ Improving every day in the world of technology<br>🌱Learning Javascript, Nodejs and Typescript<br>📚 Strengthening and improving my knowledge in Frontend and Backend<br>👨‍💻 You can see my projects in my portfolio<br>🎯 Goals: To be an excellent Full Stack Programmer<br>🎲 Hobbies: Sports 🏀⚽ and Video Games🎮<br>📫 How to reach me jean.pvp8796@gmail.com</p>
+<p align="left">
+  ✨ Improving every day in the world of technology <br>
+  🌱Learning Javascript, Nodejs and Typescript <br>
+  📚 Strengthening and improving my knowledge in Frontend and Backend <br>
+  👨‍💻 You can see my projects in <b>my portfolio</b> <br>
+  🎯 <b>Goals:</b> To be an excellent Full Stack Programmer <br>
+  🎲 <b>Hobbies:</b> Sports 🏀⚽ and Video Games🎮 <br>
+  📫 How to reach me <b>jean.pvp8796@gmail.com</b>
+</p>
 
 ###
 
